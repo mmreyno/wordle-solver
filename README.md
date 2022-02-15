@@ -6,4 +6,3 @@ inspired by the tweets from @haahr: https://twitter.com/haahr/status/14846364279
 
 current (minor) issues:  
 words returned could have a letter in a disallowed position  
-overvalues words with repeated (common) letters
