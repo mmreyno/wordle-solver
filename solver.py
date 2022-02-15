@@ -16,14 +16,6 @@ excluded_letters = ['c','o','u','n','t']
 
 
 
-
-
-
-
-
-
-
-
 ## Don't change things below here!
 ########################################################
 
