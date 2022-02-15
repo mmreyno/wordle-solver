@@ -45,9 +45,6 @@ with open('word-list.txt') as f:
 	text = f.readlines()
 	text = [ele for ele in text if all(ch not in ele for ch in excluded_letters)]	
 	text = [ele for ele in text if all(ch in ele for ch in required_letters)]
-	
-	print (len(text))
-	print (ass)
 			
 	for i in text:
 		word_sum = 0
